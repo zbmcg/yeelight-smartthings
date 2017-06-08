@@ -11,7 +11,6 @@ History:
 05-May-2017 - Initial release
 */
 //-------------------------------------------------------------------------------
-"use strict";
 console.log("Yeelight Bridge - Manage Yeelight devices")
 var http = require('http')
 var URL = require('url')
